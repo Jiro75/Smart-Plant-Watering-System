@@ -58,7 +58,7 @@ Relay Module:
 ![398941733-671a4c9f-0cbd-45d4-8f54-9ac08c8b4253](https://github.com/user-attachments/assets/1b7e001d-c8e9-4946-9eec-299f12e46c26)
 
 ## 📝 License
-This project is licensed under the MIT License - see the LICENSE file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/Smart-Plant-Watering-System/blob/777d1f8fa679388e99889a2b2e7f6aed2b5d5e70/LICENSE) file for details
 
 ## 📫 Contact
 https://www.linkedin.com/in/mostafahany4705
