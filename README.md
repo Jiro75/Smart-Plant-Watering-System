@@ -61,4 +61,5 @@ Relay Module:
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/Smart-Plant-Watering-System/blob/777d1f8fa679388e99889a2b2e7f6aed2b5d5e70/LICENSE) file for details
 
 ## 📫 Contact
-https://www.linkedin.com/in/mostafahany4705
+Email: Mostafahany4705@gmail.com <br>
+LinkedIn: www.linkedin.com/in/mostafahany4705
